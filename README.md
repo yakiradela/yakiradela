@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Yakir Adela
 
 🎯 DevOps & Cloud Engineer  
-☁️ AWS | ☸️ Kubernetes | ⚙️ Terraform | 🐳 Docker | 🤖 GitHub Actions | 🐧 Linux | 🧰 Ansible | 🐍 Python
+☁️ AWS (EKS, EC2, RDS) | ☸️ Kubernetes | ⚙️ Terraform | 🐳 Docker | 🤖 GitHub Actions | 🐧 Linux  
+🧰 Ansible | 🐍 Python | 📊 Prometheus, Grafana
 
-Welcome to my GitHub profile! I'm passionate about automating infrastructure, building scalable cloud-native environments, and deploying microservices using modern DevOps practices.
+Welcome to my GitHub profile! I'm passionate about automating infrastructure, deploying microservices, and managing secure, scalable, cloud-native systems using modern DevOps practices.
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category            | Tools & Technologies                         |
-|---------------------|----------------------------------------------|
-| CI/CD               | GitHub Actions                               |
-| Containers & Orchestration | Docker, Kubernetes (EKS)             |
-| Infrastructure as Code | Terraform, Ansible                         |
-| Cloud               | AWS (EKS, IAM, EC2, VPC, S3)                 |
-| OS & Automation     | Linux, Bash                                  |
-| Programming         | Python                                       |
+| Category               | Tools & Technologies                              |
+|------------------------|---------------------------------------------------|
+| CI/CD                  | GitHub Actions                                    |
+| Containers & Orchestration | Docker, Kubernetes (EKS)                    |
+| Infrastructure as Code | Terraform, Ansible                               |
+| Cloud & Hosting        | AWS (EKS, EC2, RDS, IAM, VPC, S3)                |
+| Monitoring & Logging   | Prometheus, Grafana                              |
+| OS & Automation        | Linux, Bash                                       |
+| Programming            | Python                                            |
 
 ---
 
@@ -25,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about automating infrastructure, bu
 - [DevOps Microservices Pipeline](https://github.com/yakiradela/devops-microservices-pipline)
 - [Flaskent](https://github.com/yakiradela/Flaskent)
 
-More projects are available throughout my GitHub and DockerHub repositories.
+You can find more projects on my GitHub and DockerHub profiles.
 
 ---
 
@@ -37,4 +39,4 @@ More projects are available throughout my GitHub and DockerHub repositories.
 
 ---
 
-🎯 Always learning, always building. Open to collaboration and new opportunities in cloud and DevOps.
+🎯 Always learning, always building. Open to collaboration and new opportunities in cloud, infrastructure, DevOps and observability.
