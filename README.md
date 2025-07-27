@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Yakir Adela
 
-<!--
-**yakiradela/yakiradela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 DevOps & Cloud Engineer  
+☁️ AWS | ☸️ Kubernetes | ⚙️ Terraform | 🐳 Docker | 🤖 GitHub Actions | 🐧 Linux | 🧰 Ansible | 🐍 Python
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about automating infrastructure, building scalable cloud-native environments, and deploying microservices using modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+| Category            | Tools & Technologies                         |
+|---------------------|----------------------------------------------|
+| CI/CD               | GitHub Actions                               |
+| Containers & Orchestration | Docker, Kubernetes (EKS)             |
+| Infrastructure as Code | Terraform, Ansible                         |
+| Cloud               | AWS (EKS, IAM, EC2, VPC, S3)                 |
+| OS & Automation     | Linux, Bash                                  |
+| Programming         | Python                                       |
+
+---
+
+## 📂 Featured Projects
+
+- [DevOps Microservices Pipeline](https://github.com/yakiradela/devops-microservices-pipline)
+- [Flaskent](https://github.com/yakiradela/Flaskent)
+
+More projects are available throughout my GitHub and DockerHub repositories.
+
+---
+
+## 🔗 Find Me Online
+
+- 🔹 GitHub: [github.com/yakiradela](https://github.com/yakiradela)  
+- 🔹 LinkedIn: [linkedin.com/in/yakir-adela-873530280](https://www.linkedin.com/in/yakir-adela-873530280/)  
+- 🔹 DockerHub: [hub.docker.com/u/yakiradela](https://hub.docker.com/u/yakiradela)
+
+---
+
+🎯 Always learning, always building. Open to collaboration and new opportunities in cloud and DevOps.
